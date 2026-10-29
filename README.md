@@ -1,6 +1,6 @@
 ### Hi, I'm Anuj 👋
 
-Senior Software Developer from Lucknow, India, with ~5 years of building backends in **Laravel** and **Node.js**: payment systems, real-time APIs, and apps at scale. Laravel open source contributor.
+Senior Software Engineer from Lucknow, India, with ~5 years of building backends in **Laravel** and **Node.js**: payment systems, real-time APIs, and apps at scale. Laravel open source contributor.
 
 - 🔧 Building backends at **Code Clowns Tech Solution**
 - 💳 Fintech & payments: PhonePe, Razorpay, Cashfree, PayU, Stripe, PayPal, BBPS
