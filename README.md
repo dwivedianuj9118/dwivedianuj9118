@@ -35,4 +35,4 @@ More on [Packagist](https://packagist.org/users/dwivedianuj9118/).
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/developeranuj) · dwivedianuj9118@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dwivedianuj9118/) · dwivedianuj9118@gmail.com
