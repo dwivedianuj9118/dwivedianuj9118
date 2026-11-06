@@ -15,6 +15,10 @@ Senior Software Engineer from Lucknow, India, with ~5 years of building backends
 - [laravel/ai #1188](https://github.com/laravel/ai/pull/1188): reviewed the fix and contributed its streaming regression test
 - [laravel/docs #11423](https://github.com/laravel/docs/pull/11423) and [#11424](https://github.com/laravel/docs/pull/11424): Laravel AI SDK documentation
 
+**In review**
+
+- [laravel/docs #11439](https://github.com/laravel/docs/pull/11439): document the names AI stream events are broadcast under
+
 **My packages**
 
 | Package | What it does |
